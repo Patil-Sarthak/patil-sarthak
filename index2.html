@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sarthak Patil – GitHub</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Poppins, sans-serif;
+      background: #0d0f13;
+      color: #eaeaea;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 80px;
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+    }
+
+    p {
+      text-align: center;
+      font-size: 1.1rem;
+      opacity: 0.8;
+    }
+
+    .profile {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    .profile a {
+      color: #00b7ff;
+      font-size: 1.3rem;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .profile a:hover {
+      color: #5bd7ff;
+      text-shadow: 0 0 8px #0099ff;
+    }
+
+    /* floating dots */
+    .dot {
+      position: absolute;
+      bottom: -60px;
+      background: #1e293b;
+      border-radius: 50%;
+      opacity: 0.7;
+      animation: rise linear infinite;
+    }
+
+    @keyframes rise {
+      from {
+        transform: translateY(0);
+        opacity: 0.7;
+      }
+      to {
+        transform: translateY(-120vh);
+        opacity: 0.2;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Sarthak Patil</h1>
+  <p>Feel free to explore my repositories 👇</p>
+
+  <div class="profile">
+    <a href="https://github.com/Patil-Sarthak" target="_blank">
+      🔗 Visit My GitHub Profile
+    </a>
+  </div>
+
+  <!-- floating dots -->
+  <script>
+    for (let i = 0; i < 60; i++) {   // increased dots
+      let d = document.createElement("div");
+      d.classList.add("dot");
+
+      let size = Math.random() * 40 + 10; 
+      d.style.width = size + "px";
+      d.style.height = size + "px";
+
+      d.style.left = Math.random() * 100 + "%";
+      d.style.animationDuration = (Math.random() * 7 + 4) + "s";
+
+      document.body.appendChild(d);
+    }
+  </script>
+
+</body>
+</html>
