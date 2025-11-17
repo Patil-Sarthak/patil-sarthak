@@ -3,14 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:22d3ee,100:3b82f6&text=Sarthak%20Patil&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<!-- Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Sarthak+Patil;Developer+%7C+Tech+Enthusiast;Bug+Renamer+%7C+Feature+Creator;Coffee+→+Code+→+Debug+→+Repeat" />
-</h1>
-
 ---
 
-## 📝 **Funny Tech Bio**
+## 📝 **Bio**
 > 🚀 *“I don’t fix bugs. I just rename them to features.”*  
 > 🤖 *“404: Bio not found.”*  
 > 💻 *“Writes code that works… sometimes by accident.”*  
@@ -66,13 +61,6 @@ Progress bars + Chart.js graph + dark/light theme.
 
 ---
 
-## 🎧 **Spotify – Now Playing**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false" />
-</p>
-
----
-
 ## 📊 **GitHub Stats**
 
 <div align="center">
@@ -87,28 +75,12 @@ Progress bars + Chart.js graph + dark/light theme.
 
 ---
 
-## 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://github.com/Patil-Sarthak/Patil-Sarthak/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## 🐱 **Octocat Friends**
 <p align="center">
   <img height="200" src="https://octodex.github.com/images/codercat.jpg" />
   <img height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   <img height="200" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </p>
-
----
-
-## 🎯 **Goals for 2025**
-- Build more Android + Cordova apps  
-- Learn backend (Node / Express)  
-- Make a full AI chatbot UI  
-- Improve coding speed  
-- Upload more open-source projects  
 
 ---
 
