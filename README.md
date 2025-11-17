@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack (Learning)**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nodejs,androidstudio,vite,git,github,linux,bash,vscode&perline=8" />
