@@ -61,18 +61,8 @@ Progress bars + Chart.js graph + dark/light theme.
 
 # 🟦 **Featured Projects (Glassmorphism Cards)**
 
-<style>
-.card {
-  background: rgba(255, 255, 255, 0.08);
-  border-radius: 16px;
-  padding: 20px;
-  margin: 20px 0;
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-}
-</style>
+<div style="background:rgba(255,255,255,0.08);border-radius:16px;padding:20px;margin:20px 0;backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);">
 
-<div class="card">
 
 ### ⭐ **Elisiya AI – Web App**
 AI assistant with Firebase login + Gemini API.  
@@ -80,21 +70,24 @@ AI assistant with Firebase login + Gemini API.
 
 </div>
 
-<div class="card">
+<div style="background:rgba(255,255,255,0.08);border-radius:16px;padding:20px;margin:20px 0;backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);">
+
 
 ### 📱 **Paper Viewer App (Cordova)**
 Loads JSON papers, thumbnails, inline viewer + rotate + swipe.
 
 </div>
 
-<div class="card">
+<div style="background:rgba(255,255,255,0.08);border-radius:16px;padding:20px;margin:20px 0;backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);">
+
 
 ### 🧮 **PCM Marks Calculator**
 Animated progress bars + Chart.js graphs + theme toggle.
 
 </div>
 
-<div class="card">
+<div style="background:rgba(255,255,255,0.08);border-radius:16px;padding:20px;margin:20px 0;backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.1);">
+
 
 ### 📦 **APK Release Manager Page**
 Auto index → Pages for all APKs → GitHub Releases based.
