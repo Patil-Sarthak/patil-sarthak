@@ -57,7 +57,51 @@ Loads paper list from JSON, shows thumbnails, inline viewer + rotate + swipe.
 ### 🔹 **PCM Mark Calculator**  
 Progress bars + Chart.js graph + dark/light theme.
 
-*(Want me to add project cards with icons? I can.)*
+---
+
+# 🟦 **Featured Projects (Glassmorphism Cards)**
+
+<style>
+.card {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 20px;
+  margin: 20px 0;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+</style>
+
+<div class="card">
+
+### ⭐ **Elisiya AI – Web App**
+AI assistant with Firebase login + Gemini API.  
+🔗 https://patil-sarthak.github.io/elisiya/
+
+</div>
+
+<div class="card">
+
+### 📱 **Paper Viewer App (Cordova)**
+Loads JSON papers, thumbnails, inline viewer + rotate + swipe.
+
+</div>
+
+<div class="card">
+
+### 🧮 **PCM Marks Calculator**
+Animated progress bars + Chart.js graphs + theme toggle.
+
+</div>
+
+<div class="card">
+
+### 📦 **APK Release Manager Page**
+Auto index → Pages for all APKs → GitHub Releases based.
+
+</div>
+
+---
 
 ---
 
