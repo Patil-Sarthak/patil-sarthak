@@ -44,7 +44,7 @@
 ## 🚀 **Social Links**
 
 <p align="left">
-  <a href="[https://github.com/Patil-Sarthak](http://patil-sarthak.github.io/patil-sarthak/)"><img src="https://img.shields.io/badge/GitHub-Profile-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="http://patil-sarthak.github.io/patil-sarthak/"><img src="https://img.shields.io/badge/GitHub-Profile-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://patil-sarthak.github.io/elisiya/"><img src="https://img.shields.io/badge/Elisiya-Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
