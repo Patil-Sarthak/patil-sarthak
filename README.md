@@ -14,3 +14,66 @@
 > 🚀 *“Self-taught developer. I copy from StackOverflow at professional speed.”*  
 > 🧪 *“Experimenting with code until Git yells at me.”*  
 > 🐧 *“Linux fan, keyboard abuser, commit history destroyer.”*
+
+
+<!-- Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=👋+Hi+there,+I'm+Sarthak+Patil;Developer+%7C+Tech+Enthusiast+%7C+Bug+Renamer" alt="Typing Animation" />
+</h1>
+
+---
+
+## 📝 **About Me (Funny Tech Bio)**
+
+> 🚀 *“I don’t fix bugs. I just rename them to features.”*  
+> 🤖 *“404: Bio not found.”*  
+> 💻 *“Writes code that works… sometimes by accident.”*  
+> ⚡ *“Powered by caffeine and console.log().”*  
+> 🐞 *“Bug creator. Bug solver. Circle of life.”*  
+> 💡 *“Full-time coder, part-time human.”*  
+> 🛠️ *“I turn coffee into code and errors into learning.”*  
+> 🧠 *“If it works, don’t touch it. If it doesn’t… still don’t touch it.”*  
+> 🔧 *“I break things to learn how to fix them. Mostly break.”*  
+> 🌐 *“Living in the cloud. Occasionally on Earth.”*  
+> ⚙️ *“Building projects that work perfectly… on my machine only.”*  
+> 🚀 *“Self-taught developer. I copy from StackOverflow at professional speed.”*  
+> 🧪 *“Experimenting with code until Git yells at me.”*  
+> 🐧 *“Linux fan, keyboard abuser, commit history destroyer.”*
+
+---
+
+## 🛠️ **Tech Stack**
+
+**Languages & Tools:**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,git,github,linux,react,nodejs,androidstudio,vscode" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Patil-Sarthak&show_icons=true&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Patil-Sarthak&theme=tokyonight" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Patil-Sarthak&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🚀 **Social Links**
+
+<p align="left">
+  <a href="https://github.com/Patil-Sarthak"><img src="https://img.shields.io/badge/GitHub-Profile-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://patil-sarthak.github.io/elisiya/"><img src="https://img.shields.io/badge/Elisiya-Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ **Fun Fact**
+> “My code works perfectly… until someone watches.”
+
