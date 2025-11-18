@@ -10,7 +10,7 @@
 ## 🛠️ **Tech Stack (Learning)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,nodejs,androidstudio,vite,git,github,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,nodejs,vite,git,github&perline=6" />
 </p>
 
 ---
