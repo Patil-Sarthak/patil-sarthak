@@ -59,7 +59,7 @@
 
 ## 🐱 **Octocat Friends**
 <p align="center">
-  <img height="200" src="https://octodex.github.com/images/codercat.jpg" />
+  <img height="200" src="./assest/octocat-1763460310079.png" />
   <img height="200" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
   <img height="200" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 </p>
