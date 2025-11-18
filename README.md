@@ -76,7 +76,7 @@
 
 ## ☕ Support Me
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Buy+Me+A+Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
+  <a href="https://buymeacoffee.com/sarthakpatil"><img src="https://img.shields.io/badge/Buy+Me+A+Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </p>
 
 ---
